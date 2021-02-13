@@ -5,9 +5,16 @@ This is a submission for Saraswathi Vidyalaya's Maths fair 2021. When it comes t
 The objective of this project is a create a population class with cofigurable characteristics to model the validity of the test in each scenario.
 
 Population attributes:
--size\n
-  Size of the population. type: int\n
--prevelance\n
-  prevalance of disease. type: float\n
--accuracy\n
-  accuracy of test. type: float\n
+
+-size
+
+  Size of the population. type: int
+ 
+-prevelance
+
+  prevalance of disease. type: float
+
+-accuracy
+
+  accuracy of test. type: float
+
