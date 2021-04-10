@@ -1,0 +1,16 @@
+---
+application:
+  name: "bayes-law-maths-fair"
+  project: "DD Military Assets"
+  organization: "QoveryCommunity"
+  storage:
+  - name: "data"
+    size: "10"
+    type: "fast_ssd"
+    mount_point: "/mnt/data"
+routers:
+- name: "main-bayes-law-maths-fair"
+  routes:
+  - application_name: "bayes-law-maths-fair"
+    paths:
+    - "/*"
