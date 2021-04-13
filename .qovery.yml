@@ -1,7 +1,7 @@
 ---
 application:
   name: "bayes-law-maths-fair"
-  project: "DD Military Assets"
+  project: "DD War Alerts"
   organization: "QoveryCommunity"
   storage:
   - name: "data"
